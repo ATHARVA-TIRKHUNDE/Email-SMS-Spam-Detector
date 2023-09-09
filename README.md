@@ -1,1 +1,1 @@
-# email-sms-spam-detector
+# Email-SMS-Spam-Setector
